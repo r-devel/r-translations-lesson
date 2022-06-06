@@ -13,6 +13,17 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "hturner",
+      "name": "Heather Turner",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3343008?v=4",
+      "profile": "https://www.heatherturner.net/",
+      "contributions": [
+        "code",
+        "review",
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
