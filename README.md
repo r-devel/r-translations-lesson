@@ -1,6 +1,6 @@
 # Lesson on R's Translations Process
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
@@ -36,6 +36,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="https://saranjeetkaur.github.io/About-Me/"><img src="https://avatars.githubusercontent.com/u/28556616?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Saranjeet Kaur</b></sub></a><br /><a href="#content-SaranjeetKaur" title="Content">🖋</a></td>
     <td align="center"><a href="https://www.heatherturner.net/"><img src="https://avatars.githubusercontent.com/u/3343008?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Heather Turner</b></sub></a><br /><a href="https://github.com/r-devel/r-translations-lesson/commits?author=hturner" title="Code">💻</a> <a href="https://github.com/r-devel/r-translations-lesson/pulls?q=is%3Apr+reviewed-by%3Ahturner" title="Reviewed Pull Requests">👀</a> <a href="#content-hturner" title="Content">🖋</a></td>
+    <td align="center"><a href="http://zkamvar.netlify.com"><img src="https://avatars.githubusercontent.com/u/3639446?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Zhian N. Kamvar</b></sub></a><br /><a href="https://github.com/r-devel/r-translations-lesson/commits?author=zkamvar" title="Code">💻</a></td>
   </tr>
 </table>
 
