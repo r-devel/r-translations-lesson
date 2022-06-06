@@ -1,6 +1,6 @@
-# Lesson on R's Bug Translations Process
+# Lesson on R's Translations Process
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-1.2-0baaaa.svg)](code_of_conduct.md)
